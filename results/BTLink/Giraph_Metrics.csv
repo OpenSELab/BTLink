@@ -1,0 +1,11 @@
+Metrics,Score
+eval_acc,0.969
+eval_auc,0.9358
+eval_brier,0.031
+eval_f1,0.8671
+eval_loss,0.1525
+eval_mcc,0.85
+eval_pf,0.0213
+eval_precision,0.8427
+eval_recall,0.8929
+eval_time,64.0
