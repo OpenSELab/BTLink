@@ -26,6 +26,28 @@ Besides, you can get our trained model and reproduce the experimental results fr
 
 You can reproduce the results of within-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/codeWithin/allRUN.sh) or reproduce the results of cross-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/codeCross/allRUN.sh).
 
+### Result
+
+We present the average performance of BTLink on the within-project link recovery task and the cross-project link recovery task. You can find more detailed results under the results folder.
+
+#### Within-project(%)
+
+| Model       |   Precision    | Recall |    F1     |  MCC   |   AUC    |    ACC    |  PF  |
+| ----------- | :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| BTLink     |   9.64    |   10.21    |   13.98   |   15.93   |   15.09   |   21.08   |   14.32   |
+| FRLink |   11.18   |   11.59    |   16.38   |   15.81   |   16.26   |   22.12   |   15.56   |
+| DeepLink     |   11.17   |   11.90    |   17.72   |   18.14   |   16.47   |   24.02   |   16.57   |
+| hybrid-linker    | **12.16** | **14.90**  | **18.07** | **19.06** | **17.65** | **25.16** | **17.83** |
+
+#### Cross-project(%)
+
+| Model       |   Precision    | Recall |    F1     |  MCC   |   AUC    |    ACC    |  PF  |
+| ----------- | :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| BTLink     |   9.64    |   10.21    |   13.98   |   15.93   |   15.09   |   21.08   |   14.32   |
+| FRLink |   11.18   |   11.59    |   16.38   |   15.81   |   16.26   |   22.12   |   15.56   |
+| DeepLink     |   11.17   |   11.90    |   17.72   |   18.14   |   16.47   |   24.02   |   16.57   |
+
+
 # Reference
 If you use this code or BTLink, please consider citing us.
 <pre><code></code></pre>
