@@ -24,4 +24,8 @@ Besides, you can get our trained model and reproduce the experimental results fr
 
 ### Start
 
-You can reproduce the results of within-project link recovery by running the [file]() or reproduce the results of cross-project link recovery by running the [file]().
+You can reproduce the results of within-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/codeWithin/allRUN.sh) or reproduce the results of cross-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/codeCross/allRUN.sh).
+
+# Reference
+If you use this code or BTLink, please consider citing us.
+<pre><code></code></pre>
