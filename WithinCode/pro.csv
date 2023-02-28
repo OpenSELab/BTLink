@@ -1,0 +1,14 @@
+apache_pro,github_pro,JIRA_KEY,method
+Flink,Flink,FLINK,DeepLink
+Avro,Avro,AVRO,PULink
+Buildr,Buildr,BUILDR,PULink
+Beam,Beam,BEAM,DeepLink
+Giraph,Giraph,GIRAPH,PULink
+Ivy,ant-ivy,IVY,PULink
+log4net,logging-log4net,LOG4NET,PULink
+Nutch,Nutch,NUTCH,PULink
+OODT,OODT,OODT,PULink
+Tez,Tez,TEZ,PULink
+Tika,Tika,TIKA,PULink
+Isis,Isis,ISIS,hybrid-linker
+keras,keras,#,T-BERT
