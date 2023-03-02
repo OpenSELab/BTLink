@@ -20,7 +20,7 @@ BTLink mainly relies on the following pre-trained models as the backbone to obta
 - NL-NL Encoder: [RoBERTa-large](https://huggingface.co/roberta-large)
 - NL-PL Encoder: [CodeBERT](https://huggingface.co/microsoft/codebert-base)
 
-Besides, you can get our trained model and reproduce the experimental results from the link: [1](https://huggingface.co/microsoft/codebert-base).
+Besides, you can get our trained model and reproduce the experimental results from the link: [BTLink_saved_models](https://huggingface.co/microsoft/codebert-base).
 
 ### Start
 
