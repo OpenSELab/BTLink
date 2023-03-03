@@ -24,7 +24,11 @@ Besides, you can get our trained model and reproduce the experimental results fr
 
 ### Start
 
-You can reproduce the results of within-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/WithinCode/allRUN.sh) or reproduce the results of cross-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/codeCross/allRUN.sh).
+First, you shold download the dataset from our [link](https://drive.google.com/drive/folders/1mjJrscTS63dXt0fwYlqeifg7P1GzmiPU?usp=sharing). 
+
+You can reproduce the results of within-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/WithinCode/allRUN.sh) or reproduce the results of cross-project link recovery by running the [file](https://github.com/glnmzx888/BTLink/blob/main/CrossCode/allRUN.sh). 
+
+Please follow the instructions to complete the reproduction：[within-project link recovery](https://github.com/glnmzx888/BTLink/tree/main/WithinCode), [Cross-project link recovery](https://github.com/glnmzx888/BTLink/tree/main/CrossCode).
 
 ### Result
 
